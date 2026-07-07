@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   longhorn:
   - apiVersion: v1
-    appVersion: master-dev
+    appVersion: v1.12.1-dev
     created: "2026-07-02T13:00:39.280878047Z"
     description: Longhorn is a distributed block storage system for Kubernetes.
     digest: 47919beb703ac557ecb62b5a69380e34426a6ee81f6997343c20645f7afed4f2
@@ -32,7 +32,7 @@ entries:
     - https://github.com/longhorn/backing-image-manager
     urls:
     - https://github.com/yangchiu/charts/releases/download/longhorn-master-dev/longhorn-master-dev.tgz
-    version: master-dev
+    version: 1.12.1-dev
   - apiVersion: v1
     appVersion: v1.12.0-dev
     created: "2026-07-02T13:00:39.280878047Z"
